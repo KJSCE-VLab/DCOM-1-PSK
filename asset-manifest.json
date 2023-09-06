@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DCOM-1-PSK/static/css/main.bc8c2df7.css",
-    "main.js": "/DCOM-1-PSK/static/js/main.40ff52ff.js",
+    "main.css": "/DCOM-1-PSK/static/css/main.81c545d8.css",
+    "main.js": "/DCOM-1-PSK/static/js/main.e0949d64.js",
     "static/js/787.fcf3cd5c.chunk.js": "/DCOM-1-PSK/static/js/787.fcf3cd5c.chunk.js",
     "static/media/modulated-bpsk.png": "/DCOM-1-PSK/static/media/modulated-bpsk.f5edb77f5d86152d469b.png",
     "static/media/bpsk.png": "/DCOM-1-PSK/static/media/bpsk.df0dde730baf72f19899.png",
@@ -16,12 +16,12 @@
     "static/media/feedback.png": "/DCOM-1-PSK/static/media/feedback.3a9ebe1137600915c8b9.png",
     "static/media/post-test.png": "/DCOM-1-PSK/static/media/post-test.047cb53caf322c094d04.png",
     "index.html": "/DCOM-1-PSK/index.html",
-    "main.bc8c2df7.css.map": "/DCOM-1-PSK/static/css/main.bc8c2df7.css.map",
-    "main.40ff52ff.js.map": "/DCOM-1-PSK/static/js/main.40ff52ff.js.map",
+    "main.81c545d8.css.map": "/DCOM-1-PSK/static/css/main.81c545d8.css.map",
+    "main.e0949d64.js.map": "/DCOM-1-PSK/static/js/main.e0949d64.js.map",
     "787.fcf3cd5c.chunk.js.map": "/DCOM-1-PSK/static/js/787.fcf3cd5c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc8c2df7.css",
-    "static/js/main.40ff52ff.js"
+    "static/css/main.81c545d8.css",
+    "static/js/main.e0949d64.js"
   ]
 }
